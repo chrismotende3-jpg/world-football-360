@@ -1,0 +1,1 @@
+Run the SQL schema first. Configure frontend and backend environment variables. Start backend on 8787 and frontend with Vite. For admin access, create an account normally, then set its profile role to admin from the Supabase SQL editor.

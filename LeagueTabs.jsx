@@ -1,0 +1,1 @@
+export default function LeagueTabs({value,onChange}){return <div className="tabs"><button className={value===39?'active':''} onClick={()=>onChange(39)}>EPL</button><button className={value===276?'active':''} onClick={()=>onChange(276)}>KPL</button></div>}

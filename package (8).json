@@ -1,0 +1,1 @@
+{"private":true,"scripts":{"verify":"node scripts/verify-backend.mjs"}}

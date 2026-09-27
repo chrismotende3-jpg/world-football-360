@@ -1,0 +1,1 @@
+Deploy frontend to a static host with VITE_SUPABASE_URL, VITE_SUPABASE_PUBLISHABLE_KEY and VITE_API_BASE_URL. Deploy backend to a Node host with PORT, SUPABASE_URL, SUPABASE_PUBLISHABLE_KEY and FOOTBALL_API_KEY. Keep OPENAI_API_KEY server-side only.

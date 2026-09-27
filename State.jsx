@@ -1,0 +1,1 @@
+export function Loading(){return <div className="state">Loading…</div>}export function ErrorBox({message}){return <div className="state error">{message}</div>}export function Empty({text='No data available.'}){return <div className="state">{text}</div>}

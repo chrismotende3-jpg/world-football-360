@@ -1,0 +1,1 @@
+Frontend pages are separated from reusable components and service clients. Express provides a server-side API gateway for API-Football and Supabase operations. Supabase RLS protects user-owned data and admin operations. Football API credentials stay server-side.
